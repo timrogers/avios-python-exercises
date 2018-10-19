@@ -1,0 +1,22 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/python-exercises
+    docker:
+      - image: circleci/python:2.7.15
+    steps:
+      - checkout
+      - run:
+          name: Check Python syntax
+          command: python -m compileall .
+      - run:
+          name: Install dependencies
+          # We don't cache our dependencies because they're all
+          # command-line Python tools and we don't want to have
+          # to cache /usr/local/bin
+          command: sudo pip install -r requirements.txt
+      - run:
+          name: Check for code style issues with pycodestyle
+          # These issues can generally be automatically corrected by running
+          # `autopep8 --in-place --aggressive **/*.py`.
+          command: pycodestyle **/*.py
