@@ -18,3 +18,5 @@ My name is Tim Rogers and I am 25 years old (that's 9125 days). 1000 days ago, I
 London,
 WC2A 1EN
 ```
+
+You can find the solution [here](https://github.com/timrogers/avios-python-exercises/blob/master/1_python_syntax/solution.py).
