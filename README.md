@@ -1,8 +1,8 @@
 # Avios Python exercises
 
-This repository contains additional exercises for the Python workshops being run at Avios, following Codeacademy's ["Learn Python"](https://www.codecademy.com/learn/learn-python) course.
+This repository contains additional exercises for the Python workshops being run at Avios, following Codeacademy's ["Learn Python 3"](https://www.codecademy.com/learn/learn-python-3) course.
 
-The exercises align with chapters of the course. For example, the `1_python_syntax` directory contains an exercise for Chapter 1, "Python Syntax".
+The exercises align with chapters of the course. For example, the `1_syntax` directory contains an exercise for Chapter 1, "Learn Python: Syntax".
 
 In each directory is a description of what your code should do, example output (what you should see when you run your code) and a complete solution (no peeking!).
 

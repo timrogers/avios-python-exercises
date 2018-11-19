@@ -1,4 +1,4 @@
-# 1. Python Syntax
+# 1. Syntax
 
 Write a simple Python programme which prints:
 
@@ -19,4 +19,4 @@ London,
 WC2A 1EN
 ```
 
-You can find the solution [here](https://github.com/timrogers/avios-python-exercises/blob/master/1_python_syntax/solution.py).
+You can find the solution [here](https://github.com/timrogers/avios-python-exercises/blob/master/1_syntax/solution.py).
