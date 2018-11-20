@@ -5,7 +5,7 @@ Write a simple Python programme which prints:
 * your name
 * your age
 * how many days old you were on your last birthday
-* how many years old you were 1000 days ago (*hint*: you'll need to use brackets, like you would in real maths, for this one)
+* how many years old you were 1000 days before your last birthday (*hint*: you'll need to use brackets, like you would in real maths, for this one)
 * your address (over multiple lines 🤔).
 
 You should assign each step to a variable as you go.
