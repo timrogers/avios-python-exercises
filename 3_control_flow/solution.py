@@ -48,7 +48,7 @@
 # => True
 
 #
-# 1f.
+# 1h.
 #
 
 'tim' == 'tim' and not 'alice' == 'alice'
